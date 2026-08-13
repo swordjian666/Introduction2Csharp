@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lzjin\\source\\repos\\BasicOperators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75612F-781E-476B-9A2E-ACB8764F9261}|BasicOperators\\BasicOperators.csproj|c:\\users\\lzjin\\source\\repos\\basicoperators\\basicoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75612F-781E-476B-9A2E-ACB8764F9261}|BasicOperators\\BasicOperators.csproj|solutionrelative:basicoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lzjin\\source\\repos\\BasicOperators\\BasicOperators\\Program.cs",
+              "RelativeDocumentMoniker": "BasicOperators\\Program.cs",
+              "ToolTip": "C:\\Users\\lzjin\\source\\repos\\BasicOperators\\BasicOperators\\Program.cs*",
+              "RelativeToolTip": "BasicOperators\\Program.cs*",
+              "ViewState": "AgIAANgAAAAAAAAAAAAowOgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T05:08:33.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lzjin\\source\\repos\\LearningStrings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DABED208-9C87-4E01-A1B5-03751F5AFD51}|LearningStrings\\LearningStrings.csproj|c:\\users\\lzjin\\source\\repos\\learningstrings\\learningstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABED208-9C87-4E01-A1B5-03751F5AFD51}|LearningStrings\\LearningStrings.csproj|solutionrelative:learningstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lzjin\\source\\repos\\LearningStrings\\LearningStrings\\Program.cs",
+              "RelativeDocumentMoniker": "LearningStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\lzjin\\source\\repos\\LearningStrings\\LearningStrings\\Program.cs",
+              "RelativeToolTip": "LearningStrings\\Program.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAUwNUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T02:33:41.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

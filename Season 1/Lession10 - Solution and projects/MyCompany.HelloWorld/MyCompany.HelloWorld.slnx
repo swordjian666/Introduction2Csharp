@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyCompany.HelloWorld.Console/MyCompany.HelloWorld.Console.csproj" />
+  <Project Path="MyCompany.HelloWorld.Console2/MyCompany.HelloWorld.Console2.csproj" />
+</Solution>

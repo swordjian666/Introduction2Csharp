@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "HelloWorld\\HelloWorld.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "HelloWorld2\\HelloWorld2.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
