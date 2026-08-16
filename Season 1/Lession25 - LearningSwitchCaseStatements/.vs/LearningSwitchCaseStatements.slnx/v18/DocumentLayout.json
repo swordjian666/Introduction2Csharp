@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lzjin\\source\\repos\\LearningSwitchCaseStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84A3C52F-5078-40A6-A9A9-3B3C2BD20F66}|LearningSwitchCaseStatements\\LearningSwitchCaseStatements.csproj|c:\\users\\lzjin\\source\\repos\\learningswitchcasestatements\\learningswitchcasestatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A3C52F-5078-40A6-A9A9-3B3C2BD20F66}|LearningSwitchCaseStatements\\LearningSwitchCaseStatements.csproj|solutionrelative:learningswitchcasestatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lzjin\\source\\repos\\LearningSwitchCaseStatements\\LearningSwitchCaseStatements\\Program.cs",
+              "RelativeDocumentMoniker": "LearningSwitchCaseStatements\\Program.cs",
+              "ToolTip": "C:\\Users\\lzjin\\source\\repos\\LearningSwitchCaseStatements\\LearningSwitchCaseStatements\\Program.cs",
+              "RelativeToolTip": "LearningSwitchCaseStatements\\Program.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAUwBMBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T14:49:37.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
