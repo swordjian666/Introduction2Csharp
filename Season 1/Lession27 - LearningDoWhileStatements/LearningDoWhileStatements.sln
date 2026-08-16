@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningDoWhileStatements", "LearningDoWhileStatements\LearningDoWhileStatements.csproj", "{8E3AE517-E0B8-4179-B7EB-881A0C43D009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreviousExampleWithWhileStatements", "PreviousExampleWithWhileStatements\PreviousExampleWithWhileStatements.csproj", "{97617410-DEBF-40A7-BB41-7D59BEA7AB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3AE517-E0B8-4179-B7EB-881A0C43D009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3AE517-E0B8-4179-B7EB-881A0C43D009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3AE517-E0B8-4179-B7EB-881A0C43D009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3AE517-E0B8-4179-B7EB-881A0C43D009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97617410-DEBF-40A7-BB41-7D59BEA7AB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97617410-DEBF-40A7-BB41-7D59BEA7AB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97617410-DEBF-40A7-BB41-7D59BEA7AB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97617410-DEBF-40A7-BB41-7D59BEA7AB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
