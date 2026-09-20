@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningDelegates", "LearningDelegates\LearningDelegates.csproj", "{87347251-44A6-49F4-909F-54155002AAE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningLambdaExpressions", "LearningLambdaExpressions\LearningLambdaExpressions.csproj", "{B1AB50E0-F994-4EFA-B251-E685861F7461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87347251-44A6-49F4-909F-54155002AAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87347251-44A6-49F4-909F-54155002AAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87347251-44A6-49F4-909F-54155002AAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87347251-44A6-49F4-909F-54155002AAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AB50E0-F994-4EFA-B251-E685861F7461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AB50E0-F994-4EFA-B251-E685861F7461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AB50E0-F994-4EFA-B251-E685861F7461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AB50E0-F994-4EFA-B251-E685861F7461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
