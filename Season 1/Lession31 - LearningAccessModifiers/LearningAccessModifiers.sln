@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAccessModifiers", "LearningAccessModifiers\LearningAccessModifiers.csproj", "{CBD963D6-94A3-4A44-909F-B9EF5A0E2329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningAccessModifiers2", "LearningAccessModifiers2\LearningAccessModifiers2.csproj", "{BCD54A37-8618-49A7-98CC-FC8317D2EB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD963D6-94A3-4A44-909F-B9EF5A0E2329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD963D6-94A3-4A44-909F-B9EF5A0E2329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD963D6-94A3-4A44-909F-B9EF5A0E2329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD963D6-94A3-4A44-909F-B9EF5A0E2329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD54A37-8618-49A7-98CC-FC8317D2EB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD54A37-8618-49A7-98CC-FC8317D2EB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD54A37-8618-49A7-98CC-FC8317D2EB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD54A37-8618-49A7-98CC-FC8317D2EB22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
